@@ -4,8 +4,8 @@
   "description": "Explore Node",
   "main": "index.js",
   "repository": {
-  	"type": "git",
-  	"url": "https://github.com/mlbaquerizo/node-explore.git"
+    "type": "git",
+    "url": "https://github.com/mlbaquerizo/node-explore.git"
   },
   "scripts": {
     "test": "mocha test",
@@ -14,10 +14,10 @@
   "author": "Matthew Baquerizo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3",
-    "lodash": "^4.17.4"
+    "express": "^4.15.3"
   },
   "devDependencies": {
-    "mocha": "^3.4.1"
+    "mocha": "^3.4.1",
+    "webpack": "^2.5.1"
   }
 }

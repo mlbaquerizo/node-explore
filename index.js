@@ -1,2 +1,2 @@
-require('./app/main');
-const _ = require('lodash');
+require('./app/main')
+const _ = require('lodash')
